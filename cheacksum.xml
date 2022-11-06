@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<PBOnlinePaymentFile>
+<BankCode>7135</BankCode>
+<PaymentDate>07-10-2022</PaymentDate>
+<PaymentList>
+<PaymentItem>
+  <PaymentAmountType>T</PaymentAmountType>
+  <PaymentDate>07-10-2022</PaymentDate>
+  <DIN>101025611379644</DIN>
+  <Amount>16828.76</Amount>
+  <PaymentMode>O</PaymentMode>
+  <ChequeNumber></ChequeNumber>
+  <ChequeBankCode></ChequeBankCode>
+  <ChequeBranchCode></ChequeBranchCode>
+  <BankReferenceNumber>382030</BankReferenceNumber>
+  <CommercialBankCode>6010</CommercialBankCode>
+  <STANCode>293786</STANCode>
+  <ChannelMethod>4106</ChannelMethod>
+  <ReceivedDateTime>07-10-2022 10:04:46</ReceivedDateTime>
+</PaymentItem>
+<PaymentItem>
+  <PaymentAmountType>T</PaymentAmountType>
+  <PaymentDate>07-10-2022</PaymentDate>
+  <DIN>101024650061544</DIN>
+  <Amount>258060.52</Amount>
+  <PaymentMode>O</PaymentMode>
+  <ChequeNumber></ChequeNumber>
+  <ChequeBankCode></ChequeBankCode>
+  <ChequeBranchCode></ChequeBranchCode>
+  <BankReferenceNumber>409822</BankReferenceNumber>
+  <CommercialBankCode>6278</CommercialBankCode>
+  <STANCode>607945</STANCode>
+  <ChannelMethod>4106</ChannelMethod>
+  <ReceivedDateTime>07-10-2022 12:26:10</ReceivedDateTime>
+</PaymentItem>
+<PaymentItem>
+  <PaymentAmountType>T</PaymentAmountType>
+  <PaymentDate>07-10-2022</PaymentDate>
+  <DIN>101024650486444</DIN>
+  <Amount>500651.4</Amount>
+  <PaymentMode>O</PaymentMode>
+  <ChequeNumber></ChequeNumber>
+  <ChequeBankCode></ChequeBankCode>
+  <ChequeBranchCode></ChequeBranchCode>
+  <BankReferenceNumber>381814</BankReferenceNumber>
+  <CommercialBankCode>6083</CommercialBankCode>
+  <STANCode>562935</STANCode>
+  <ChannelMethod>4106</ChannelMethod>
+  <ReceivedDateTime>07-10-2022 10:03:51</ReceivedDateTime>
+</PaymentItem>
+<PaymentItem>
+  <PaymentAmountType>T</PaymentAmountType>
+  <PaymentDate>07-10-2022</PaymentDate>
+  <DIN>101025618027444</DIN>
+  <Amount>613801.63</Amount>
+  <PaymentMode>O</PaymentMode>
+  <ChequeNumber></ChequeNumber>
+  <ChequeBankCode></ChequeBankCode>
+  <ChequeBranchCode></ChequeBranchCode>
+  <BankReferenceNumber>367794</BankReferenceNumber>
+  <CommercialBankCode>6278</CommercialBankCode>
+  <STANCode>479544</STANCode>
+  <ChannelMethod>4106</ChannelMethod>
+  <ReceivedDateTime>07-10-2022 08:42:58</ReceivedDateTime>
+</PaymentItem>
+<PaymentItem>
+  <PaymentAmountType>T</PaymentAmountType>
+  <PaymentDate>07-10-2022</PaymentDate>
+  <DIN>101025623402244</DIN>
+  <Amount>980433</Amount>
+  <PaymentMode>O</PaymentMode>
+  <ChequeNumber></ChequeNumber>
+  <ChequeBankCode></ChequeBankCode>
+  <ChequeBranchCode></ChequeBranchCode>
+  <BankReferenceNumber>386469</BankReferenceNumber>
+  <CommercialBankCode>6056</CommercialBankCode>
+  <STANCode>025769</STANCode>
+  <ChannelMethod>4106</ChannelMethod>
+  <ReceivedDateTime>07-10-2022 10:27:06</ReceivedDateTime>
+</PaymentItem>
+<PaymentItem>
+  <PaymentAmountType>T</PaymentAmountType>
+  <PaymentDate>07-10-2022</PaymentDate>
+  <DIN>101025624917844</DIN>
+  <Amount>8123491.21</Amount>
+  <PaymentMode>O</PaymentMode>
+  <ChequeNumber></ChequeNumber>
+  <ChequeBankCode></ChequeBankCode>
+  <ChequeBranchCode></ChequeBranchCode>
+  <BankReferenceNumber>443761</BankReferenceNumber>
+  <CommercialBankCode>6056</CommercialBankCode>
+  <STANCode>047717</STANCode>
+  <ChannelMethod>4106</ChannelMethod>
+  <ReceivedDateTime>07-10-2022 15:56:19</ReceivedDateTime>
+</PaymentItem>
+</PaymentList>
+<CheckSum>151441151749572536251.84</CheckSum>
+</PBOnlinePaymentFile>
